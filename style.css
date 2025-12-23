@@ -1,0 +1,52 @@
+body {
+  
+margin: 20px
+ ;
+background-color:white;
+   
+}
+
+h1{ 
+  background-image:url("photobanner.jpeg"); height:250px; width:;   background-size:cover; text-align: center;
+  
+  
+
+  color:white;
+
+}
+
+h2{
+
+  text-decoration: underline; color:#a1c659;
+}
+pre{
+  
+   color:;
+     font-family: Arial;
+}
+hr{
+    
+}
+a{
+color:;
+}
+p{
+ text-align: center;
+ color:;
+}
+img{
+ height:25px;
+}
+section{
+text-align: -webkit-center;
+
+}
+ul{
+    color: mediumslateblue;
+}
+#heading{
+font-family:jokerman;
+font-size:70px;}
+#sub{
+font-family:arial;
+font-size:20px;}
